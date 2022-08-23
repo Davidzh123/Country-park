@@ -1,0 +1,25 @@
+
+.scroll {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    margin: 22px;
+    padding: 5px;
+    align-items: center;
+
+}
+.logements{
+    display: -webkit-inline-box;
+}
+.produits{
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+}
+.avis{
+    border: 1px black solid;
+    border-radius: 30px;
+    margin: 5px;
+
+}

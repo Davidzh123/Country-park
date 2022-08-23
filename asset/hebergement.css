@@ -1,0 +1,21 @@
+*{
+    overflow-x: hidden;
+}
+a{
+    text-decoration: none;
+
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    margin: 22px;
+    padding: 5px;
+    align-items: center;
+    border: black 1px solid;
+    border-radius: 10%/50%;
+
+}
+button.btn btn-outline-secondary{
+    transform: translate(80px,10px);
+}

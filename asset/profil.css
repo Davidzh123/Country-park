@@ -1,0 +1,23 @@
+.profil{
+    display: flex;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+.commande{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    margin: 22px;
+    padding: 5px;
+    align-items: center;
+}
+.container{
+    display: -webkit-inline-flex;
+}
+fa-solid fa-bags-shopping{
+    color: black;
+    width: 10px;
+    height: 10px;
+}

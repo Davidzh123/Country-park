@@ -1,0 +1,30 @@
+*,
+*:before,
+*:after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+input[type="date"]{
+    background-color: #0080ff;
+    padding: 15px;
+    font-family: Roboto;
+    color: white;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    border-radius: 5px
+}
+::-webkit-calendar-picker-indicator{
+    background-color: #ffffff;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+.avis{
+    border: 1px black solid;
+    border-radius: 30px;
+    margin: 5px;
+
+}
